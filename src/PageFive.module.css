@@ -1,0 +1,20 @@
+.oo{
+    height: 900px;
+    background-color: white;
+    /* border: 2px solid orange; */
+}
+.pp>h1{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 70px;
+}
+.qq>img,.qq{
+    background-color: white;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.ww{
+    background-color: white;
+    padding-left: 750px;
+}

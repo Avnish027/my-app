@@ -1,0 +1,55 @@
+.oture{
+    /* background: linear-gradient(to right,#181623,#17245B); */
+    height: 400px;
+    /* border: 2px solid orange; */
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+
+}
+.oture>div{
+    background: rgb(0,0,0,0);
+
+}
+.oti{
+    color: white;
+    background: rgb(0,0,0,0);
+
+}
+.oto>h4{
+    margin-bottom: 20px;
+    background: rgb(0,0,0,0);
+
+}
+.otoo>h4{
+    margin-bottom: 10px;
+    background: rgb(0,0,0,0);
+
+}
+.yyy>h4{
+    color: white;
+    margin-bottom: 10px;
+    /* margin-top: 20px; */
+    background: rgb(0,0,0,0);
+
+}
+.yyoo{
+    margin-top: 20px;
+    background: rgb(0,0,0,0);
+
+}
+.yyyT>h4{
+    color:white;
+    margin-bottom: 30px;
+    background: rgb(0,0,0,0);
+
+    
+}
+.inn>input{
+    border: 2px solid white;
+    height: 30px;
+    border-radius: 5px;
+}
+::placeholder{
+    font-size: 16px;
+}

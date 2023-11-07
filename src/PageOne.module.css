@@ -1,0 +1,32 @@
+.cont{
+    /* border: 2px solid White; */
+    height: 497px;
+    background: linear-gradient(#181623,#181623,#17245B);
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.txt1{
+    /* border:2px solid white; */
+    color:white;
+}
+.img1{
+    /* border: 2px solid white; */
+    flex-direction: column;
+}
+.img1>img{
+    border-radius: 50%;
+
+}
+.txt4{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    
+}
+.txt1{
+    margin-top: 50px;
+}
+.txt1,.img1{
+    background: rgb(0,0,0,0);
+}

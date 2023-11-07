@@ -1,0 +1,58 @@
+.otrp{
+    height: 200px;
+    /* border: 2px solid orange; */
+    background-color: white;
+    padding-top: 80px;
+    /* padding-left: 30%; */
+    display: flex;
+    justify-content: space-around;
+
+}
+.otra{
+    background-color: white;
+}
+.otrb>h1,.otrb>h3{
+    color: black;
+    background-color: white;
+}
+.otra{
+    background-color: white;
+}
+button{
+    padding: 9px 25px;
+    background-color: #0030FF;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+button:hover{
+    background-color: darkblue
+    ;
+}
+.aa{
+    color:white;
+}
+.ss{
+    width: 250px;
+    border-radius: 5px;
+}
+.learn{
+    color:aqua;
+    padding:10px;
+}
+.bbdf{
+    width: 250px;
+    /* border: 2px solid orange; */
+    background-color: wheat;
+}
+.aa>h3, .aa>p{
+    padding: 10px;
+}
+
+.bade{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+
+}

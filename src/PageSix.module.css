@@ -1,0 +1,56 @@
+.iy>img{
+    background-color: black;
+    border-radius: 50%;
+    height: 600px;
+}
+.zy{
+    color:white;
+}
+.zy>h1{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+/* .wrappera{
+    width:450px;
+    border: 2px solid orange;
+    background:#fff;
+    padding: 30px;
+    color: black;
+}
+.wrappera .input_data input {
+    height: 100%;
+    color: white;
+    width: 100%;
+    border:none;
+    border-bottom: 2px solid silver;
+    font-size: 17px;
+}
+
+.wrappera .input_data label{
+    position: absolute;
+    bottom: 20px;
+} */
+.input_data>input{
+    border: 2px solid white;
+    /* border-bottom: 2px solid white; */
+    height: 40px;
+    width: 500px;
+    
+}
+::placeholder{
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+}
+.outeraa{
+    display: flex;
+    justify-content: space-around;
+    margin-top:50px;
+
+}
+.wrappera{
+    margin-bottom: 70px;
+}
+.hra{
+    color: white;
+}
